@@ -15,7 +15,7 @@ int main() {
 	printf("Digite a quantidade de partidas jogadas: ");
 	scanf("%d", &qtdPartidas); 
 	
-	mediaGols = totalGols / qtdPartidas;
+	mediaGols = (float)totalGols / qtdPartidas;
 	
 	printf("A media de gols por partida eh: %.2f", mediaGols);
 	
