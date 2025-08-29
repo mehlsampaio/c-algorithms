@@ -1,8 +1,8 @@
-// Escreva um programa que solicita ao usuário: capacidade total do estádio, 
-// e a qtd de torcedores presentes no jogo. Com base na taxa de ocupação do estadio, o programa deve
+// Escreva um programa que solicita ao usuÃ¡rio: capacidade total do estÃ¡dio, 
+// e a qtd de torcedores presentes no jogo. Com base na taxa de ocupaÃ§Ã£o do estadio, o programa deve
 // classificar a partida da seguinte forma:
-// Se o estádio estiver com mais de 90% da capacidade ocupada: "Lotado!"
-// Se estiver entre 70% e 90%: "ótima presença de público!"
+// Se o estÃ¡dio estiver com mais de 90% da capacidade ocupada: "Lotado!"
+// Se estiver entre 70% e 90%: "Ã³tima presenÃ§a de pÃºblico!"
 // Se estiver entre 50% e 70%: "Publico razoavel."
 // Se estiver abaixo de 50%: "Morumbis
 
@@ -22,9 +22,9 @@ int main() {
 	
 	if (taxa > 90){
 		printf("Lotado!");
-	}else if (taxa >= 70 && taxa <=90){
+	}else if (taxa >= 70){
 		printf("Otima presenca de publico!");
-	}else if (taxa >= 50 && taxa <=70){
+	}else if (taxa >= 50){
 		printf("Publico razoavel.");
 	}else {
 		printf("Morumbis.");
