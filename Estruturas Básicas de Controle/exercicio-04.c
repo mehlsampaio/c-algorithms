@@ -24,4 +24,6 @@ int main() {
 	
 	printf("O numero total de pontos do time eh: %d", totalPontos);
 	
+	return 0;
+	
 }

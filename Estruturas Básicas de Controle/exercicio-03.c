@@ -18,5 +18,6 @@ int main() {
 	
 	printf("%d minutos jogados sao %d horas e %d minutos", totalMinutos, horas, minutos);	
 	
+	return 0;
 	
 }
