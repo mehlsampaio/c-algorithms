@@ -1,8 +1,17 @@
+# VS Code
+.vscode/
+
+# Executáveis
 *.exe
+*.out
+
+# Compilação
 *.o
 *.obj
+*.so
 *.dll
+*.a
 
+# Logs e backups
 *.log
-
 *.bak

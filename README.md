@@ -10,4 +10,3 @@ Repositório criado para armazenar minhas anotações, exemplos e exercícios de
 • IDE Vs Code
 </p>
 
-<h1></h1>
